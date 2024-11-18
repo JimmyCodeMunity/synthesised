@@ -28,7 +28,7 @@ const Features = () => {
                 </div>
                 <h1 class="py-8 text-center text-gray-900 font-bold font-manrope text-5xl lg:text-left leading-[70px]">
                   The new standard for{" "}
-                  <span class="text-indigo-600">Modern investor</span>
+                  <span class="text-indigo-600">Modern Companies.</span>
                 </h1>
                 <p class=" text-gray-500 text-lg text-center lg:text-left">
                   When you’re ready to invest, quickly execute your orders with

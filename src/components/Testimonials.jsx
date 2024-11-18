@@ -23,8 +23,8 @@ const Testimonials = () => {
               </h1>
               <div class="flex flex-wrap -m-3 mb-20">
                 <div class="w-full lg:w-auto p-3">
-                  <button class="font-heading w-full px-6 py-4 text-base text-gray-900 bg-white hover:bg-gray-100 rounded-md">
-                    Start 14 Days Free Trial
+                  <button class="font-heading w-full px-6 py-4 text-base text-white hover:text-violet-500 bg-violet-500 hover:bg-white hover:border border-violet-500 text-xl rounded-md">
+                    Request for Service Now!!
                   </button>
                 </div>
                 <div class="w-full lg:w-auto p-3">
@@ -43,7 +43,7 @@ const Testimonials = () => {
                     />
                   </div>
                   <div class="flex-1 p-3">
-                    <p class="mb-4 text-gray-300 text-base">
+                    <p class="mb-4 text-gray-300 text-neutral-500">
                       “You made it so simple. My new team is so much faster and
                       easier to work with than my old site. I just choose the
                       page, make the change.”
@@ -66,7 +66,7 @@ const Testimonials = () => {
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
-                            Albert Flores
+                            Jimmy Wafula
                           </p>
                           <p class="mb-2 text-sm text-gray-500">
                             Software Engineer
@@ -111,10 +111,10 @@ const Testimonials = () => {
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
-                            Darlene Robertson
+                            Collins Muema
                           </p>
                           <p class="mb-2 text-sm text-gray-500">
-                            Software Tester
+                            Cyber Sucurity Analyst
                           </p>
                           <div class="flex items-center px-2 py-1 bg-gray-100 rounded-full">
                             <svg
@@ -154,10 +154,10 @@ const Testimonials = () => {
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
-                            Kristin Watson
+                            Samuel Lukulu
                           </p>
                           <p class="mb-2 text-sm text-gray-500">
-                            Project Manager
+                            Web Designer
                           </p>
                           <div class="flex items-center px-2 py-1 bg-gray-100 rounded-full">
                             <svg
