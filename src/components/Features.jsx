@@ -48,19 +48,19 @@ const Features = () => {
                 <div class="flex items-center flex-col lg:flex-row">
                   <div class="flex items-center">
                     <img
-                      src="https://pagedone.io/asset/uploads/1694846673.png"
+                      src="../images/suel.jpg"
                       alt="Rounded image "
-                      class="border-2 border-solid border-indigo-50 rounded-full relative z-50 object-cover"
+                      class="border-2 h-10 w-10 border-solid border-indigo-50 rounded-full relative z-50 object-cover"
                     />
                     <img
-                      src="https://pagedone.io/asset/uploads/1694846691.png"
+                      src="../images/jimmy1.jpg"
                       alt="Rounded image"
-                      class="border-2 border-solid border-indigo-50 rounded-full relative z-30 -ml-3 object-cover"
+                      class="border-2 h-10 w-10 border-solid border-indigo-50 rounded-full relative z-30 -ml-3 object-cover"
                     />
                     <img
-                      src="https://pagedone.io/asset/uploads/1694846704.png"
+                      src="../images/collo.jpg"
                       alt="Rounded image"
-                      class="border-2 border-solid border-indigo-50 rounded-full relative z-20 -ml-3 object-cover"
+                      class="border-2 h-10 w-10 border-solid border-indigo-50 rounded-full relative z-20 -ml-3 object-cover"
                     />
                   </div>
                   <span class="mt-3 text-base text-gray-600 font-medium lg:ml-3">

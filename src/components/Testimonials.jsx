@@ -37,8 +37,8 @@ const Testimonials = () => {
                 <div class="flex flex-wrap -m-3">
                   <div class="w-auto p-3">
                     <img
-                      class="w-14 h-14"
-                      src="../images/avatar-circle.png"
+                      class="w-14 h-14 rounded-full object-cover"
+                      src="../images/jimmy1.jpg"
                       alt=""
                     />
                   </div>
@@ -48,8 +48,8 @@ const Testimonials = () => {
                       easier to work with than my old site. I just choose the
                       page, make the change.”
                     </p>
-                    <p class="font-heading text-white text-base">
-                      Denny Jones, founder of Growthio
+                    <p class="font-heading text-neutral-500 font-semibold text-lg">
+                      <span className="text-violet-500">Jimmy Wafula</span>, founder of Synthesis
                     </p>
                   </div>
                 </div>
@@ -62,7 +62,7 @@ const Testimonials = () => {
                     <div class="mx-auto w-64 p-3 bg-white transform hover:-translate-y-3 transition ease-out duration-1000 rounded-2xl">
                       <div class="flex flex-wrap -m-2">
                         <div class="w-auto p-2">
-                          <img src="../images/avatar-circle.png" alt="" />
+                        <img src="../images/jimmy1.jpg" className="h-14 w-14 object-cover rounded-full" alt="" />
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
@@ -107,7 +107,7 @@ const Testimonials = () => {
                     <div class="mx-auto w-64 p-3 bg-white transform hover:-translate-y-3 transition ease-out duration-1000 rounded-2xl">
                       <div class="flex flex-wrap -m-2">
                         <div class="w-auto p-2">
-                          <img src="../images/avatar-circle.png" alt="" />
+                          <img src="../images/collo.jpg" className="h-14 w-14 object-cover rounded-full" alt="" />
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
@@ -150,7 +150,7 @@ const Testimonials = () => {
                     <div class="mx-auto w-64 p-3 bg-white transform hover:-translate-y-3 transition ease-out duration-1000 rounded-2xl">
                       <div class="flex flex-wrap -m-2">
                         <div class="w-auto p-2">
-                          <img src="../images/avatar-circle.png" alt="" />
+                          <img src="../images/suel.jpg" className="h-14 w-14 rounded-full object-cover" alt="" />
                         </div>
                         <div class="w-auto p-2">
                           <p class="font-heading text-base text-gray-900">
