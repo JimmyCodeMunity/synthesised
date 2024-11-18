@@ -1,5 +1,5 @@
 import React from "react";
-import animationData from "../lotties/mobile";
+import animationData from "../lotties/revenue";
 import Lottie from "react-lottie";
 import { TypeAnimation } from "react-type-animation";
 
