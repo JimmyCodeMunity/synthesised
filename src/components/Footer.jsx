@@ -17,7 +17,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div class="lg:mx-auto text-left ">
-                    <h4 class="text-lg text-gray-900 font-medium mb-7">Pagedone</h4>
+                    <h4 class="text-lg text-gray-900 font-medium mb-7">Synthesis</h4>
                     <ul class="text-sm  transition-all duration-500">
                         <li class="mb-6"><a href="javascript:;"  class="text-gray-600 hover:text-gray-900">Home</a></li>
                         <li class="mb-6"><a href="javascript:;"  class=" text-gray-600 hover:text-gray-900">About</a></li>
